@@ -18,9 +18,8 @@ body * {
 body {
     background-color: #121214;
     background-image: url(./assets/bg.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background-position-x: center;
+    background-position-y: -715px;
 }
 
 #app {
